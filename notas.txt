@@ -1,0 +1,19 @@
+
+PRÉ-REQUISITOS PARA CONFIGURAR O FRAMEWORK PDF.JD
+==================================================
+
+-> Install Node.js
+De <https://nodejs.org/en> 
+
+
+-> VS Code Terminal:
+npm install
+
+
+-> VS Code Terminal:
+npx gulp server
+
+
+-> VS Code Terminal:
+>>> npx gulp generic
+
